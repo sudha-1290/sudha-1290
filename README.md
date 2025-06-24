@@ -129,7 +129,7 @@
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sudha-1290&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALX-13&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudha-1290&theme=nightowl&hide_border=false" alt="Sudha-1290 streak" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sudha-1290&theme=nightowl&hide_border=false&langs_count=10"/>
